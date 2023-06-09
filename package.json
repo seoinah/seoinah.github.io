@@ -5,14 +5,8 @@
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
-<<<<<<< HEAD
-    "serve": "gatsby serve",
-    "build": "gatsby build",
-    "deply": "gatsby build && gh-pages -d public -b deploy"
-=======
     "build": "gatsby build",
     "serve": "gatsby serve"
->>>>>>> 35c8fd4477beb3b1d7f5c32cee20788467967d72
   },
   "engines": {
     "node": ">=18.0.0"
