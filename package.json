@@ -1,4 +1,4 @@
-{
+
   "name": "gatsby-starter-portfolio-minimal-theme",
   "version": "1.0.0",
   "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
@@ -6,7 +6,8 @@
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "deploy": "gatsby build && gh-pages -d public -b deploy"
   },
   "engines": {
     "node": ">=18.0.0"
@@ -14,6 +15,7 @@
   "dependencies": {
     "gatsby": "^5.0.1",
     "gatsby-theme-portfolio-minimal": "latest",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
