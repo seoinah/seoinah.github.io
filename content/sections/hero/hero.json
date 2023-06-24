@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "반갑습니다.",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/inah_main.png",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "프론트엔드 개발자 서인아입니다.",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "사람들의 삶에 기여하는 서비스를 고민하고, Work is life를 실천하고자 합니다.",
+    "highlight": "기여",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "성장하는 곳에서 함께 성장할 수 있는 환경을 선호합니다. 메모는 기억이다.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["Github", "Mail"],
     "showIcons": false
   }
 }
