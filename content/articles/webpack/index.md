@@ -1,6 +1,6 @@
 ---
-title: "HashTable"
-description: "Webpack"
+title: "Webpack"
+description: "Webpack이란"
 date: "2023-06-23"
 categories:
   - "Study"
