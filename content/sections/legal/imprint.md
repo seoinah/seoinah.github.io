@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+SeoInAh<br />
+Songpa<br />
+Seoul<br />
+South Korea
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>ireh2650@gmail.com</u>
 
 ---
 

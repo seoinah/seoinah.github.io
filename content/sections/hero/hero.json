@@ -10,11 +10,11 @@
   },
   "title": "프론트엔드 개발자 서인아입니다.",
   "subtitle": {
-    "prefix": "사람들의 삶에 기여하는 서비스를 고민하고, Work is life를 실천하고자 합니다.",
+    "prefix": "사람들의 삶에 기여하는 서비스에 대해 고민하고, Work is life를 실천하고자 합니다.",
     "highlight": "기여",
     "suffix": "."
   },
-  "description": "성장하는 곳에서 함께 성장할 수 있는 환경을 선호합니다. 메모는 기억이다.",
+  "description": "성장하는 곳에서 함께 성장할 수 있는 환경을 선호합니다. 메모는 기억이다라는 생각으로 꾸준히 기록해 나갑니다.",
   "socialProfiles": {
     "from": ["Github", "Mail"],
     "showIcons": false
