@@ -1,6 +1,6 @@
 ---
-title: "HashTable"
-description: "[Algorithm] Hash Table 이란"
+title: "리액트 최적화"
+description: "리액트 최적화 방법"
 date: "2023-06-06"
 categories:
   - "Study"
