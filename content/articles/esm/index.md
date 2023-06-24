@@ -7,8 +7,7 @@ categories:
   - "Javascript"
 keywords:
   - "Javascript"
-  - "자료구조"
-  - "HashTable"
+  - "Module System"
 ---
 
 # ES Module
