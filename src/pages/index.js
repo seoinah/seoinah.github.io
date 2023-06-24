@@ -2,7 +2,6 @@ import React from "react";
 import {
   AboutSection,
   ArticlesSection,
-  ContactSection,
   HeroSection,
   InterestsSection,
   Page,
@@ -17,8 +16,8 @@ export default function IndexPage() {
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        {/* <InterestsSection sectionId="details" heading="Details" /> */}
+        {/* <ProjectsSection sectionId="features" heading="Built-in Features" /> */}
+        <InterestsSection sectionId="details" heading="Details" />
       </Page>
     </>
   );

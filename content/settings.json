@@ -26,10 +26,7 @@
         "openNewTab": true,
         "label": "Resume",
         "url": "/resume.pdf"
-      },
-      "footer": [
-        { "label": "Imprint", "url": "/imprint" }
-      ]
+      }
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
