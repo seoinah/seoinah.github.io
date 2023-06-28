@@ -1,3 +1,16 @@
+---
+title: "비동기 작업"
+description: "[Javascript] 비동기 작업"
+date: "2023-06-28"
+categories:
+  - "Study"
+  - "Javascript"
+  - "React"
+keywords:
+  - "Javascript"
+  - "React"
+---
+
 # 비동기 작업
 
 상위 항목: React (https://www.notion.so/React-cd7a3137ef7d4eac9c6879442e07e5a1?pvs=21), JavaScript (https://www.notion.so/JavaScript-367630c26993403a857566a44039dbb0?pvs=21)
